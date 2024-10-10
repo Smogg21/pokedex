@@ -1,4 +1,13 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# React + Vite
+Este es un buscador de películas creado utilizando react Native por motivos de aprendizaje/estudio, utilizando la API de [PokeApi](https://pokeapi.co/)
+
+[Has Click aquí para descargar la APK para instalar en android](https://github.com/Smogg21/CalculadoraIOS/releases/download/1.0.0/CalculadoraIOS.apk)
+
+![Diseño](images/)
+
+
+
+
 
 # Getting Started
 
