@@ -1,9 +1,11 @@
 # React + Vite
 Este es un buscador de películas creado utilizando react Native por motivos de aprendizaje/estudio, utilizando la API de [PokeApi](https://pokeapi.co/)
 
-[Has Click aquí para descargar la APK para instalar en android](https://github.com/Smogg21/CalculadoraIOS/releases/download/1.0.0/CalculadoraIOS.apk)
+[Has Click aquí para descargar la APK para instalar en android](https://github.com/Smogg21/pokedex/releases/download/1.0/Pokeapi.apk)
 
-![Diseño](images/)
+![Diseño](images/Screenshot_23.png)
+![Diseño2](images/Screenshot_24.png)
+
 
 
 
